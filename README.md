@@ -1,5 +1,7 @@
 # Piechart
 
+Dist folder already contains a built project to be served by a https server
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
