@@ -1,5 +1,7 @@
 # Piechart
 
+A svg based nested piechart graph with custom fluid animation & vue databinding
+
 Dist folder already contains a built project to be served by a https server
 
 Live demo at https://lootyy.github.io/
